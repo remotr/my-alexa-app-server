@@ -1,1 +1,1 @@
-web: node index2
+web: node examples/server.js
