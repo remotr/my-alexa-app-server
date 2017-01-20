@@ -1,1 +1,2 @@
-web: node index.js
+web: cd examples
+web: node server
