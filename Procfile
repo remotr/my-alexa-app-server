@@ -1,2 +1,1 @@
-web: cd examples
-web: node server
+web: node index
